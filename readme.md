@@ -2,8 +2,8 @@
 
 Team Members:
 
-Damera Ashan Raj
-Siripuram Gandhi
+Damera Ashan Raj\\
+Siripuram Gandhi\\
 Dhanavath Balaji
 
 This is a web application where users can login and book tour packages.
