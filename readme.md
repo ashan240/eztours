@@ -1,6 +1,12 @@
 # ezTours Application
 
-A web application where users can login and book tour packages.
+Team Members:
+
+Damera Ashan Raj
+Siripuram Gandhi
+Dhanavath Balaji
+
+This is a web application where users can login and book tour packages.
 
 ## Built With
 - Node.js
